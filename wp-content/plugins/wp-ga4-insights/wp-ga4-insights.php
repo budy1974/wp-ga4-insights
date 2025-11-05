@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       GA4 Insights
- * Plugin URI:        https://example.com/plugins/ga4-insights
+ * Plugin URI:        https://www.gay.it
  * Description:       Provides GA4 conversational insights inside the WordPress admin for multisite networks.
  * Version:           1.0.0
- * Author:            Your Name
- * Author URI:        https://example.com
+ * Author:            Davide Buselli
+ * Author URI:        https://www.gay.it
  * Network:           true
  * Requires at least: 6.0
  * Requires PHP:      7.4
