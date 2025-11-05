@@ -96,14 +96,8 @@ class GA4_Insights_Chat {
         }
 
         $payload = array(
-            'model'    => $settings['model_name'],
-            'query'    => $question,
-            'filters'  => array(
-                'hostName' => $host,
-            ),
-            'metadata' => array(
-                'siteUrl' => get_site_url(),
-            ),
+            'prompt'   => $question,
+            'hostName' => $host,
         );
 
         $headers = array(
